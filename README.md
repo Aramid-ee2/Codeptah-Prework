@@ -5,7 +5,7 @@
 `TODO://` AramidesHelloWorldAPP is an android application developed in Kotlin on androidstudio to get a hands-on experience of mobile app development. It includes all the required features and one bonus feature.The required feature it includes is the user getting a welcome message from me and the user having the opportunity to interact with the app by changing the text color. The bonus feature it includes is enabling the user to change the background color.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+`TODO://` 
 
 <img src="https://imgur.com/a/eZRApBT" width=200><br>
 
